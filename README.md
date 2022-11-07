@@ -6,6 +6,7 @@ Hasta ahora:
 - He sido coordinador tecnológico de FrenaLaCurvaColombia.
 - I improved my English by living in England and Ireland for half a year. També parle català.
 - Soy Responsable de playa en el servicio de socorrismo marítimo de Dénia.
+- Soy voluntario en Salvamento Marítimo de la Cruz Roja
    
 <!--
 **Camiletb/Camiletb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
