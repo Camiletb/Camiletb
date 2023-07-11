@@ -5,7 +5,6 @@ Hasta ahora:
 - He sido tallerista en el FLISOL de Bogotá.
 - He sido coordinador tecnológico de FrenaLaCurvaColombia.
 - I improved my English by living in England and Ireland for half a year. També parle català.
-- Soy Responsable de playa en el servicio de socorrismo marítimo de Dénia.
 - Soy voluntario en Salvamento Marítimo de la Cruz Roja
    
 <!--
