@@ -4,10 +4,10 @@
 Hasta ahora:
 - He sido tallerista en el FLISOL de Bogotá.
 - He sido coordinador tecnológico de FrenaLaCurvaColombia.
-- Hablo en castellano, catalán, inglés, y estoy aprendiendo italiano.
+- Hablo en castellano, catalán, inglés, e italiano.
 - Soy voluntario en Salvamento Marítimo de la Cruz Roja
 
-📧 Puedes contactarme a través de camilo.e.contacto@gmail.com
+📧 Puedes contactarme a través de camilet.dev@gmail.com
 <!--
 **Camiletb/Camiletb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
